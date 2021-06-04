@@ -2,7 +2,7 @@ Notes App!.
 
 Here I have performed CURD operations using databaseSQlite. 
 
-<img src="screenshot/1.png" width="150" ><img src="screenshot/2.png" width="150" ><img src="screenshot/3.png" width="150" ><img src="screenshot/4.png" width="150" >
-<img src="screenshot/5.png" width="150" ><img src="screenshot/6.png" width="150" ><img src="screenshot/7.png" width="150" >
+<img src="screenshots/1.png" width="150" ><img src="screenshots/2.png" width="150" ><img src="screenshots/3.png" width="150" ><img src="screenshots/4.png" width="150" >
+<img src="screenshots/5.png" width="150" ><img src="screenshots/6.png" width="150" ><img src="screenshots/7.png" width="150" >
 
 
